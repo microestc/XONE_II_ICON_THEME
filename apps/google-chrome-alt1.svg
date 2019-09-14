@@ -22,13 +22,13 @@
        inkscape:collect="always"
        id="linearGradient1209">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop1207"
          offset="0"
-         id="stop1205" />
+         style="stop-color:#ffffff;stop-opacity:0" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         id="stop1205"
          offset="1"
-         id="stop1207" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient1079"
@@ -917,7 +917,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79492188"
-     inkscape:cx="281.1597"
+     inkscape:cx="272.9828"
      inkscape:cy="500.04914"
      inkscape:document-units="px"
      inkscape:current-layer="g1065"
@@ -1027,12 +1027,12 @@
              cy="521.40869"
              cx="550.95349"
              id="path922"
-             style="opacity:0.2;fill:url(#linearGradient1211);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.49831295;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers" />
+             style="opacity:0.3;fill:url(#linearGradient1211);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.49831295;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers" />
           <circle
              style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.49831295;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers;filter:url(#filter1048)"
              id="circle1036"
-             cx="550.95349"
-             cy="521.40869"
+             cx="13.79379"
+             cy="488.70108"
              r="250" />
           <circle
              r="150"
